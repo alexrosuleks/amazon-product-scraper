@@ -1,0 +1,20 @@
+{
+  "name": "amazon-product-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Amazon Product Scraper: Scrape Amazon products by URL, ASIN or search: price, rating, reviews count, seller, images and specs. No login needed. Export data to JSON, CSV or Excel.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "amazon"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
